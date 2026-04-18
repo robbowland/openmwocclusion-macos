@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <cmath>
 
+#include <osg/Geometry>
 #include <osg/BoundingBox>
 #include <osg/BoundingSphere>
 #include <osg/Camera>
