@@ -74,7 +74,3 @@ jobs:
     uses: ./.github/workflows/macos.yml
     with:
       image: ${{ matrix.args.image }}
-
-    uses: ./.github/workflows/windows.yml
-    with:
-      image: ${{ matrix.image }}
